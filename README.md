@@ -43,14 +43,6 @@ pip install -r requirements.txt
 
 ```
 
-## Step 5: Run the Application
-Start the Streamlit application by running the following command:
-
-``` bash
-streamlit run app.py
-
-```
-
 ## Step 4: Download the Pre-trained Model
 
 Download the simple_rnn_imdb.h5 model file and place it in the project directory. This file is necessary for making predictions.
