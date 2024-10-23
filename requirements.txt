@@ -5,3 +5,5 @@ scikit-learn==1.2.0
 tensorboard
 matplotlib
 streamlit==1.20.0
+plotly
+streamlit-lottie
