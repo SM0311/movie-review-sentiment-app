@@ -1,4 +1,4 @@
-## IMDB Movie Review Sentiment Analysis
+## IMDB Movie Review Sentiment Analysis using Recurrent Neural Network(RNN)
 
 #### Overview
 This project is a web application that analyzes the sentiment of user-inputted movie reviews using a pre-trained Recurrent Neural Network (RNN) model. It determines whether a review is Positive or Negative based on the model's prediction and a user-adjustable threshold.
