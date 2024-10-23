@@ -72,8 +72,13 @@ streamlit run app.py
 
 imdb-sentiment-analysis/
 │
+
 ├── app.py                 # Main Streamlit app code
+
 ├── simple_rnn_imdb.h5     # Pre-trained RNN model (place in the root directory)
+
 ├── requirements.txt       # List of required Python packages
+
 ├── README.md              # Project documentation
+
 └── assets/                # Folder for additional assets (e.g., images, animations)
