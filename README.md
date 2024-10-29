@@ -20,7 +20,7 @@ The app is built using:
 ## Installation and Setup
 ### Prerequisites
 - Python 3.11
-- Virtual environment setup (optional but recommended)
+- Virtual environment setup.
 
 ## Step 1: Clone the Repository
 
